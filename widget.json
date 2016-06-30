@@ -1,6 +1,6 @@
 {
   "name": "time since",
-  "description": "Shows the time elapsed since a date and time you specify, with optional text before and after",
+  "description": "Shows the time elapsed since a specified date and time, with options to put text before and after, and abreviate.",
   "author": "John Mathews",
   "email": "mthwsjc@gmail.com"
 }
