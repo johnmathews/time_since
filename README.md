@@ -1,8 +1,14 @@
 # time_since
 A widget for Übersicht to calculate the time elapsed since a date and time.
 
-Specify the date time you want to measure from.
+## Installation
 
-Optionally, add teext before and text after the time since.
+1. Download and install Übersicht
+2. Copy time_since.widget to your widgets folder.
+3. You're done.
 
-To use abreviations, change "shorten" to "True".
+## Edit index.coffee to:
+
+1. Specify the date time you want to measure from
+2. Optionally, add text before and text after the time since
+3. To use abreviations, change "shorten" to "True"
