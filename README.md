@@ -9,4 +9,4 @@ A widget for Übersicht to calculate the time elapsed since a date and time.
 #### Edit index.coffee to:
 1. Specify the date time you want to measure from
 2. Optionally, add text before and after
-3. To use abreviations, change "shorten" to "True"
+3. To use abreviations, set "shorten" to true
